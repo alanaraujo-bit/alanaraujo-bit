@@ -68,7 +68,7 @@ alan@matrix:~$ █
 
 <div align="center">
 
-<img alt="Cobrinha verde comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/alanaraujo-bit/alanaraujo-bit/output/github-snake-matrix.svg"/>
+<img alt="Painel Matrix de atividade no GitHub" src="https://raw.githubusercontent.com/alanaraujo-bit/alanaraujo-bit/output/matrix-activity.svg" width="100%"/>
 
 </div>
 

@@ -1,0 +1,36 @@
+name: Atualizar painel Matrix
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/matrix-activity.mjs, .github/workflows/matrix-activity.yml]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Gerar painel de atividade
+        run: node scripts/matrix-activity.mjs dist/matrix-activity.svg
+        env:
+          # Opcional: um token pessoal (secret MATRIX_TOKEN) enxerga mais dados que o token padrão.
+          GH_TOKEN: ${{ secrets.MATRIX_TOKEN || secrets.GITHUB_TOKEN }}
+          # Várias contas separadas por vírgula somam as contribuições.
+          USERS: alanaraujo-bit
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
