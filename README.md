@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:2d7cc4&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:2d7cc4&height=120&section=header" alt="" width="100%"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2D7CC4&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS+%40+PUC+Minas+Virtual;Construindo+solu%C3%A7%C3%B5es+elegantes+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2D7CC4&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS+%40+PUC+Minas+Virtual;Construindo+solu%C3%A7%C3%B5es+elegantes" alt="Desenvolvedor Full Stack | Estudante de ADS @ PUC Minas Virtual | Construindo soluções elegantes" /></a>
 
 <br/><br/>
 
@@ -13,40 +13,34 @@
 
 <br/>
 
-## &nbsp;About
+## &nbsp;Sobre mim
 
 ```javascript
 const alan = {
-    role: "Desenvolvedor Full Stack",
-    education: "Análise e Desenvolvimento de Sistemas @ PUC Minas Virtual",
-    location: "Brazil 🇧🇷",
-    languages: ["Português", "Inglês"],
+    cargo: "Desenvolvedor Full Stack",
+    formacao: "Análise e Desenvolvimento de Sistemas @ PUC Minas Virtual",
+    localizacao: "Brasil",
+    idiomas: ["Português", "Inglês"],
     stack: ["JavaScript", "Python", "MySQL"],
-    passion: "Transformando problemas complexos em soluções simples"
+    paixao: "Transformar problemas complexos em soluções simples"
 };
 ```
 
 <br/>
 
-## &nbsp;My Motto
+## &nbsp;Meu lema
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     "Cada um terá a vista da montanha que subir."                            ║
-║                                                                              ║
-║                                                        — Ícaro de Carvalho  ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<h3><i>"Cada um terá a vista da montanha que subir."</i></h3>
+
+<sub>— Ícaro de Carvalho</sub>
 
 </div>
 
 <br/>
 
-## &nbsp;Tech Stack
+## &nbsp;Tecnologias
 
 <div align="center">
 
@@ -61,32 +55,26 @@ const alan = {
 
 <br/>
 
-## &nbsp;GitHub Stats
+## &nbsp;Estatísticas no GitHub
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=alanaraujo-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true" />
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanaraujo-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true"/>
-  </picture>
-  &nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=alanaraujo-bit&hide_border=true&background=0D1117&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-    <img height="160em" src="https://github-readme-streak-stats-eight.vercel.app/?user=alanaraujo-bit&hide_border=true&background=0D1117&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681"/>
-  </picture>
+<img height="160" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=alanaraujo-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true&locale=pt-br"/>
+&nbsp;&nbsp;&nbsp;
+<img height="160" alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=alanaraujo-bit&hide_border=true&background=0D1117&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&locale=pt_BR"/>
 
 </div>
 
 <br/>
 
-## &nbsp;Contribution Snake
+## &nbsp;Cobrinha de contribuições
 
 <div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanaraujo-bit/alanaraujo-bit/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanaraujo-bit/alanaraujo-bit/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/alanaraujo-bit/alanaraujo-bit/output/github-snake.svg" />
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/alanaraujo-bit/alanaraujo-bit/output/github-snake.svg" />
   </picture>
 
 </div>
@@ -108,10 +96,10 @@ const alan = {
 
 **💼&nbsp;&nbsp;Desenvolvedor Full Stack | Estudante de ADS @ PUC Minas Virtual**
 
-**Aberto para colaborações e oportunidades!**
+**Aberto a colaborações e oportunidades!**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:2d7cc4&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:2d7cc4&height=100&section=footer" alt="" width="100%"/>
 
 </div>
