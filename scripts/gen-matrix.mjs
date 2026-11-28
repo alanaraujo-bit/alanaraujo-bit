@@ -68,10 +68,10 @@ ${r.css}
 ${REDUCED}
 </style>
 <defs>
-<filter id="green"><feColorMatrix type="matrix" values="0.10 0.20 0.05 0 0  0.25 0.75 0.10 0 0.02  0.06 0.20 0.03 0 0  0 0 0 1 0"/></filter>
+<filter id="green"><feColorMatrix type="matrix" values="0.15 0.35 0.08 0 0  0.45 1.35 0.20 0 0.05  0.12 0.35 0.06 0 0  0 0 0 1 0"/></filter>
 <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <radialGradient id="vig" cx="55%" cy="50%" r="70%"><stop offset="0" stop-color="#000" stop-opacity=".88"/><stop offset=".6" stop-color="#000" stop-opacity=".55"/><stop offset="1" stop-color="#000" stop-opacity=".2"/></radialGradient>
-<pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity=".35"/></pattern>
+<pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity=".22"/></pattern>
 <clipPath id="typeclip"><rect class="type" x="380" y="180" height="34" width="400"/></clipPath>
 </defs>
 <rect width="${W}" height="${H}" fill="#000"/>
