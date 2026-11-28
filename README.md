@@ -2,7 +2,7 @@
 
 <img src="./assets/matrix-hero.svg" alt="Alan Araújo, desenvolvedor full stack, com efeito Matrix" width="100%"/>
 
-<a href="https://github.com/alanaraujo-bit"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=Acorde%2C+visitante...;A+Matrix+pegou+voc%C3%AA.;Siga+o+coelho+branco.;Toc%2C+toc." alt="Acorde, visitante... A Matrix pegou você. Siga o coelho branco. Toc, toc."/></a>
+<a href="https://github.com/alanaraujo-bit"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2600&pause=1100&color=00FF41&center=true&vCenter=true&width=700&lines=Acorde%2C+visitante...;A+Matrix+pegou+voc%C3%AA.;Siga+o+coelho+branco.;Toc%2C+toc.;O+que+%C3%A9+real%3F;N%C3%A3o+existe+colher.;Liberte+sua+mente.;Bem-vindo+ao+mundo+real.;N%C3%A3o+pense+que+voc%C3%AA+%C3%A9.+Saiba+que+voc%C3%AA+%C3%A9.;Conhecer+o+caminho+n%C3%A3o+%C3%A9+trilhar+o+caminho.;Eu+sei+kung+fu.;Ele+%C3%A9+o+escolhido." alt="Acorde, visitante... A Matrix pegou você. Siga o coelho branco. Toc, toc. O que é real? Não existe colher. Liberte sua mente. Bem-vindo ao mundo real. Não pense que você é. Saiba que você é. Conhecer o caminho não é trilhar o caminho. Eu sei kung fu. Ele é o escolhido."/></a>
 
 <img src="https://komarev.com/ghpvc/?username=alanaraujo-bit&label=AGENTES+DETECTADOS&color=00ff41&style=flat-square" alt="Contador de visitas do perfil"/>
 
