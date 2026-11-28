@@ -24,7 +24,7 @@ alan@matrix:~$ cat sobre.txt
   combustível: café, curiosidade e commits de madrugada
 
 alan@matrix:~$ cat lema.txt
-  "Cada um terá a vista da montanha que subir." — Ícaro de Carvalho
+  "Eu só posso te mostrar a porta. Você é quem tem que atravessá-la." — Morpheus
 
 alan@matrix:~$ █
 ```
