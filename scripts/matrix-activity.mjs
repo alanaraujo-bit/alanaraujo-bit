@@ -128,7 +128,7 @@ function render(data, users) {
   };
   const dias = (n) => `${n} ${n === 1 ? 'dia' : 'dias'}`;
   const boxes = [
-    box(0, 'CONTRIBUIÇÕES', s.total.toLocaleString('pt-BR'), `${data.commits} commits · ${data.prs} PRs`),
+    box(0, 'CONTRIBUIÇÕES', s.total.toLocaleString('pt-BR'), `${data.commits.toLocaleString('pt-BR')} commits · ${data.prs} PRs`),
     box(1, 'SEQUÊNCIA ATUAL', dias(s.current.len), s.current.len ? `desde ${ddmm(s.current.from)}` : 'bora quebrar o zero'),
     box(2, 'MAIOR SEQUÊNCIA', dias(s.longest.len), s.longest.len ? `${ddmm(s.longest.from)} até ${ddmm(s.longest.to)}` : 'ainda por vir'),
     box(3, 'DIA MAIS ATIVO', DIAS[s.topWeekday], s.best.date ? `recorde: ${s.best.count} em ${ddmm(s.best.date)}` : 'sem registros'),
