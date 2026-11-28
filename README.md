@@ -57,17 +57,6 @@ alan@matrix:~$ █
 
 <div align="center">
 
-<img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=alanaraujo-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=b8ffc8&ring_color=00ff41&count_private=true&locale=pt-br"/>
-<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaraujo-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=b8ffc8&locale=pt-br"/>
-
-<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=alanaraujo-bit&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=b8ffc8&currStreakNum=ffffff&sideNums=ffffff&dates=4d8f5c&locale=pt_BR"/>
-
-</div>
-
-## `> rastrear --commits`
-
-<div align="center">
-
 <img alt="Painel Matrix de atividade no GitHub" src="https://raw.githubusercontent.com/alanaraujo-bit/alanaraujo-bit/output/matrix-activity.svg" width="100%"/>
 
 </div>
